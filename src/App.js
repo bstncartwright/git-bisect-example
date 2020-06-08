@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         <p>
           This is an example page!
+          Thanks for looking at this project!
         </p>
       </header>
     </div>
