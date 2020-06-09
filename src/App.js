@@ -6,8 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          This is an example page!
-          Thanks for looking at this project!
+          This is an example page! 🚀
         </p>
       </header>
     </div>
